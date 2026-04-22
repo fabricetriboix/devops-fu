@@ -20,9 +20,8 @@
 
 title: DevOps Fu
 description: DevOps tips and tricks
-url: https://devops-fu.org
-#url: https://fabricetriboix.github.io/
-#baseurl: /ahimsapath
+url: https://fabricetriboix.github.io
+baseurl: /devops-fu
 github_username: fabricetriboix
 
 # Build settings
